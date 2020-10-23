@@ -1,0 +1,158 @@
+body{
+	background-color: #0A3642;
+	font-family: nexa light;
+}
+
+
+
+.box-col{
+	width: 80%;
+	margin: 0 auto;
+	background: red;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+
+
+.logo{
+	width: 400px
+	height:400px
+	margin-left:50%;
+	
+}
+
+
+.col-logo{
+	width: 50%;
+	float: left;
+	background: #06232D;
+	height: 100%
+}
+
+.col-info{
+	width: 50%;
+	float: left;
+	background-color: #FFFF00;
+}
+
+ul{
+	float: right;
+}
+li{
+	display: inline-block;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+li a{
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.info-description{
+	margin-top: 0px;
+	height: 300px;
+}
+
+.info-description-about{
+	margin-top: 50px;
+	height: 350px;
+}
+
+
+.title{
+	color: black;
+	text-align: center;
+	font-family: ;
+	margin-top: 250px;
+	font-weight: bold;
+	font-size: 62px;
+
+}
+
+
+.title-about{
+	color: black;
+	text-align: center;
+	font-family: ;
+	margin-top: 200px;
+	font-weight: bold;
+	font-size: 62px;
+
+}
+
+.subtitle{
+	margin-left: 200px;
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	font-weight: bolder;
+	
+
+}
+
+.about{
+	text-align: justify;
+	color: black;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.info-about{
+	width: 400px;
+	margin: 0 auto;
+}
+
+.info-skills{
+	width: 600px;
+	margin: 0 auto;
+	margin-left: 100px;
+	font-family: sans-serif;
+}
+
+
+
+
+.buttons{
+	color: white;
+	float: right;
+	padding: 10px;
+	margin-right: 30px;
+
+}
+
+.left,.right{
+	background: #06232D;
+	padding: 8px;
+	float: right;
+	text-align: center;
+	font-weight: bolder;
+}
+
+.left{
+	margin-right: 10px;
+}
+
+.img-logo{
+	width: 208px;
+	height: 208px;
+	margin-left: 30%;
+	margin-top: 30%;
+}
+
+.col-skills{
+	color: black;
+	float: left;
+	margin-right: 100px;
+}
+
+.blackblue{
+	background: #06232D;
+	
+}
+
+.yellow{
+	background-color: #FFFF00;
+	
+}
